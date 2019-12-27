@@ -1,0 +1,9 @@
+# For local files
+*.gitignore.*
+
+# Log file
+*.log
+
+# Backup
+*.bak
+
