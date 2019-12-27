@@ -13,6 +13,7 @@ Directory structure
 
 ```bash
 ├── images
+│   ├── emblem.svg   # Emblem for Multifunctional projects. Author Nazir K. Khusnutdinov
 │   └── logo.svg   # Logo for Multifunctional projects. Author Nazir K. Khusnutdinov
 ├── .gitattributes
 ├── .gitignore
