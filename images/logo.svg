@@ -1,46 +1,141 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="512" width="1024" version="1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="360 0 1024 512">
- <metadata>
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs>
-  <style>.cls-1{fill:#c6202f;}.cls-2{fill:#fff;}</style>
-  <style>.cls-1{fill:#c6202f;}.cls-2,.cls-4,.cls-5{fill:#fff;}.cls-3{fill:#d1d2d3;fill-rule:evenodd;}.cls-4{font-size:28.88px;font-family:Helvetica-8-Heavy;}.cls-5{font-size:16.84px;font-family:Helvetica-2-UltraLight;}</style>
- </defs>
- <g stroke-width="64">
-  <path stroke="#338000" d="m656.61 271.56c-0.54266-26.916-16.398-60.963-42.125-68.914-58.373-18.041-167.17 75.156-167.17 75.156-122.73 97.621 19.934 239.65 103.71 183.25 58.997-39.715 107.04-117.21 105.59-189.5z" fill="#0a4"/>
-  <path stroke="#a08" d="m576.33 271.76c0.54266-26.916 16.398-60.963 42.125-68.914 58.373-18.041 167.17 75.156 167.17 75.156 122.73 97.621-19.934 239.65-103.71 183.25-58.997-39.715-107.04-117.21-105.59-189.5z" fill="#d400aa"/>
-  <path stroke="#217867" d="m572.8 241.97c0.54266 26.916 16.398 60.963 42.125 68.914 58.373 18.041 167.17-75.156 167.17-75.156 122.73-97.621-19.934-239.65-103.71-183.25-58.997 39.715-107.04 117.21-105.59 189.5z" fill="#2ca089"/>
-  <path stroke="#d45500" d="m658.11 243.63c-0.54266 26.916-16.398 60.963-42.125 68.914-58.373 18.041-167.17-75.156-167.17-75.156-122.73-97.621 19.934-239.65 103.71-183.25 58.997 39.715 107.04 117.21 105.59 189.5z" fill="#f60"/>
- </g>
- <circle id="center" stroke="#214478" cy="256" cx="616" r="127.5" fill="#2c5aa0"/>
- <g stroke-width="3.681" font-size="147.24px" font-family="&apos;Agency FB&apos;" letter-spacing="0px" word-spacing="0px" font-stretch="condensed" font-weight="bold">
-  <g aria-label="MULTI" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" fill="#2c5aa0">
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m937.88 176h-9.4182v-71.247q0-1.5098 1.0065-8.843l-18.405 69.522h-2.013l-18.405-69.522q1.0065 7.4051 1.0065 8.843v71.25h-9.4182v-112.52h9.2744l18.261 73.189q0.14379 0.57516 0.28757 3.2352 0-1.0784 0.28758-3.2352l18.261-73.189h9.2744z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1002.5 168.02q0 3.5228-2.3006 5.7516-2.22 2.23-5.74 2.23h-30.627q-3.5228 0-5.7516-2.2287-2.2287-2.2287-2.2287-5.7516v-104.54h9.9933v103.68h26.673v-103.68h9.9933z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1056.5 176h-35.947v-112.52h9.9934v103.68h25.954z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1109.1 72.328h-17.398v103.67h-9.9933v-103.67h-17.542v-8.843h44.934z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1131.5 176h-9.9933v-112.52h9.9933z"/>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="512"
+   width="1024"
+   version="1"
+   viewBox="360 0 1024 512"
+   id="svg59">
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8">
+    <style
+       id="style4">.cls-1{fill:#c6202f;}.cls-2{fill:#fff;}</style>
+    <style
+       id="style6">.cls-1{fill:#c6202f;}.cls-2,.cls-4,.cls-5{fill:#fff;}.cls-3{fill:#d1d2d3;fill-rule:evenodd;}.cls-4{font-size:28.88px;font-family:Helvetica-8-Heavy;}.cls-5{font-size:16.84px;font-family:Helvetica-2-UltraLight;}</style>
+  </defs>
+  <g
+     stroke-width="64"
+     id="g18">
+    <path
+       stroke="#338000"
+       d="m656.61 271.56c-0.54266-26.916-16.398-60.963-42.125-68.914-58.373-18.041-167.17 75.156-167.17 75.156-122.73 97.621 19.934 239.65 103.71 183.25 58.997-39.715 107.04-117.21 105.59-189.5z"
+       fill="#0a4"
+       id="path10" />
+    <path
+       stroke="#a08"
+       d="m576.33 271.76c0.54266-26.916 16.398-60.963 42.125-68.914 58.373-18.041 167.17 75.156 167.17 75.156 122.73 97.621-19.934 239.65-103.71 183.25-58.997-39.715-107.04-117.21-105.59-189.5z"
+       fill="#d400aa"
+       id="path12" />
+    <path
+       stroke="#217867"
+       d="m572.8 241.97c0.54266 26.916 16.398 60.963 42.125 68.914 58.373 18.041 167.17-75.156 167.17-75.156 122.73-97.621-19.934-239.65-103.71-183.25-58.997 39.715-107.04 117.21-105.59 189.5z"
+       fill="#2ca089"
+       id="path14" />
+    <path
+       stroke="#d45500"
+       d="m658.11 243.63c-0.54266 26.916-16.398 60.963-42.125 68.914-58.373 18.041-167.17-75.156-167.17-75.156-122.73-97.621 19.934-239.65 103.71-183.25 58.997 39.715 107.04 117.21 105.59 189.5z"
+       fill="#f60"
+       id="path16" />
   </g>
-  <g aria-label="FUNC" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" fill="#d45500">
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1003.5 208.33h-26.242v42.705h24.157v8.9868h-24.18v51.97h-9.9933v-112.51h36.235z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1063.9 304.02q0 3.5228-2.3006 5.7516-2.2 2.23-5.7 2.23h-30.627q-3.5229 0-5.7516-2.2287t-2.2287-5.7516v-104.53h9.9933v103.67h26.673v-103.67h9.9933z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1128.3 312h-6.9019l-30.052-82.751v82.75h-9.4182v-112.51h7.4771l29.477 81.313v-81.313h9.4182z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1191.5 304.02q0 3.5228-2.3006 5.7516-2.3 2.23-5.9 2.23h-28.974q-3.5228 0-5.7515-2.2287-2.2288-2.2287-2.2288-5.7516v-96.554q0-3.5228 2.2288-5.7516 2.2287-2.2287 5.7515-2.2287h28.974q3.5229 0 5.8235 2.2287t2.3006 5.7516v26.17h-10.065v-25.307h-25.019v94.829h25.019v-27.679h10.065z"/>
+  <circle
+     id="center"
+     stroke="#214478"
+     cy="256"
+     cx="616"
+     r="127.5"
+     fill="#2c5aa0" />
+  <g
+     stroke-width="3.681"
+     font-size="147.24px"
+     font-family="'Agency FB'"
+     letter-spacing="0px"
+     word-spacing="0px"
+     font-stretch="condensed"
+     font-weight="bold"
+     id="g57"
+     transform="translate(0,-10.000006)">
+    <g
+       transform="translate(17.827298,146.89694)"
+       id="g904"
+       fill="#2c5aa0"
+       style="font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"
+       aria-label="MULTI">
+      <g
+         aria-label="Module"
+         transform="scale(0.78256047,1.2778565)"
+         id="text902"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:290.098px;line-height:39.854px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#2c5aa0;fill-opacity:1;stroke:none;stroke-width:0.999998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           d="m 1236.9267,122.37592 h -18.5561 V -17.998642 q 0,-2.974638 1.9831,-17.422878 l -36.2622,136.97498 h -3.9662 L 1143.863,-35.42152 q 1.9831,14.58989 1.9831,17.422878 V 122.37592 H 1127.29 V -99.305404 h 18.2728 l 35.979,144.1991 q 0.2833,1.133195 0.5666,6.374223 0,-2.124741 0.5666,-6.374223 l 35.9789,-144.1991 h 18.2728 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:290.098px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998px"
+           id="path2825" />
+        <path
+           d="m 1349.2547,106.36954 q 0,16.00638 -16.0064,16.00638 h -47.3109 q -15.8648,0 -15.8648,-16.00638 V 0.55743045 q 0,-16.00638345 15.8648,-16.00638345 h 47.3109 q 16.0064,0 16.0064,16.00638345 z m -18.8394,-0.5666 V 1.1240281 H 1288.912 V 105.80294 Z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:290.098px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998px"
+           id="path2827" />
+        <path
+           d="m 1458.3247,122.37592 h -18.6977 v -3.82453 q -30.313,4.67443 -33.5709,4.67443 -12.0402,0 -19.406,-8.07402 -7.3658,-8.21566 -7.3658,-20.397512 V 14.155774 q 0,-12.7484471 8.3573,-21.1057623 8.3574,-8.4989647 20.9642,-8.4989647 h 31.0212 v -83.856451 h 18.6977 z M 1439.627,105.23634 V 1.1240281 h -26.0635 q -15.5814,0 -15.5814,16.0063829 v 73.657694 q 0,15.864735 15.5814,15.864735 3.6829,0 26.0635,-1.4165 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:290.098px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998px"
+           id="path2829" />
+        <path
+           d="m 1568.2447,122.37592 h -18.5561 v -3.82453 q -11.332,1.55814 -22.5223,2.97464 -13.5983,1.69979 -22.5222,1.69979 -15.2982,0 -15.2982,-15.29814 V -15.448953 h 18.5561 V 105.51964 l 41.7866,-1.13319 V -15.448953 h 18.5561 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:290.098px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998px;fill:#217867;fill-opacity:1"
+           id="path2831" />
+        <path
+           d="m 1618.9552,122.37592 h -18.5561 V -99.305404 h 18.5561 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:290.098px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998px;fill:#217867;fill-opacity:1"
+           id="path2833" />
+        <path
+           d="m 1727.8835,106.36954 q 0,16.00638 -15.8647,16.00638 h -45.3278 q -15.8647,0 -15.8647,-16.00638 V 0.55743045 q 0,-16.00638345 15.8647,-16.00638345 h 45.3278 q 15.8647,0 15.8647,16.00638345 V 50.134724 l -6.3742,6.657522 h -52.4103 v 49.860594 h 40.5118 V 81.439244 h 18.2727 z M 1709.6108,41.777409 V 0.27413163 H 1669.099 V 41.777409 Z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:290.098px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999998px;fill:#217867;fill-opacity:1"
+           id="path2835" />
+      </g>
+      <g
+         aria-label="System"
+         transform="scale(0.83864761,1.1923959)"
+         id="text908"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.583px;line-height:30.9767px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#2c5aa0;fill-opacity:1;stroke:none;stroke-width:0.999995px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+        <path
+           d="m 1125.3739,154.17732 v 15.06194 q -8.7925,-4.20511 -16.5911,-6.26943 -7.7986,-2.06433 -15.0619,-2.06433 -12.6154,0 -19.4964,4.89322 -6.8047,4.89322 -6.8047,13.91509 0,7.5692 4.511,11.46848 4.5874,3.82283 17.2791,6.19298 l 9.3277,1.91141 q 17.2792,3.28763 25.4601,11.6214 8.2573,8.2573 8.2573,22.17239 0,16.59107 -11.1627,25.1542 -11.0862,8.56314 -32.5705,8.56314 -8.1044,0 -17.2791,-1.83496 -9.0984,-1.83496 -18.8848,-5.42842 v -15.90296 q 9.4041,5.27551 18.426,7.95148 9.0219,2.67598 17.7379,2.67598 13.227,0 20.4139,-5.19904 7.1869,-5.19905 7.1869,-14.83257 0,-8.41022 -5.199,-13.15052 -5.1226,-4.74031 -16.8969,-7.11046 l -9.4042,-1.83496 q -17.2791,-3.44054 -25.0012,-10.78037 -7.7222,-7.33983 -7.7222,-20.4139 0,-15.13839 10.6275,-23.85444 10.7039,-8.71604 29.4358,-8.71604 8.0279,0 16.3617,1.45267 8.3337,1.45268 17.0498,4.35802 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.583px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999995px;fill:#aa0088;fill-opacity:1"
+           id="path2838" />
+        <path
+           d="m 1191.3559,272.53205 q -5.9636,15.2913 -11.6214,19.95515 -5.6578,4.66385 -15.1384,4.66385 h -11.2391 v -11.7743 h 8.2573 q 5.8107,0 9.0219,-2.75244 3.2111,-2.75244 7.1104,-12.99761 l 2.5231,-6.42235 -34.6348,-84.25511 h 14.909 l 26.7598,66.97593 26.7598,-66.97593 h 14.909 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.583px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999995px;fill:#aa0088;fill-opacity:1"
+           id="path2840" />
+        <path
+           d="m 1302.9824,181.47231 v 13.30344 q -5.9636,-3.05827 -12.3859,-4.5874 -6.4224,-1.52913 -13.3035,-1.52913 -10.4745,0 -15.75,3.21118 -5.1991,3.21117 -5.1991,9.63352 0,4.89322 3.7464,7.72211 3.7464,2.75244 15.062,5.2755 l 4.8167,1.07039 q 14.9855,3.21118 21.2549,9.09833 6.3459,5.8107 6.3459,16.28525 0,11.92722 -9.4806,18.88476 -9.4041,6.95755 -25.9188,6.95755 -6.881,0 -14.3738,-1.37622 -7.4163,-1.29976 -15.6736,-3.97574 v -14.52674 q 7.7986,4.05219 15.3678,6.11652 7.5692,1.98787 14.9855,1.98787 9.9393,0 15.2913,-3.36409 5.3519,-3.44054 5.3519,-9.63352 0,-5.73424 -3.8992,-8.7925 -3.8229,-3.05827 -16.8969,-5.88716 l -4.8933,-1.14685 q -13.074,-2.75243 -18.8847,-8.41022 -5.8107,-5.73424 -5.8107,-15.67359 0,-12.08013 8.5631,-18.65539 8.5631,-6.57526 24.3132,-6.57526 7.7986,0 14.6796,1.14684 6.8811,1.14685 12.6918,3.44055 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.583px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999995px;fill:#aa0088;fill-opacity:1"
+           id="path2842" />
+        <path
+           d="m 1343.9631,154.63606 v 24.31318 h 28.9771 v 10.93329 h -28.9771 v 46.48557 q 0,10.47455 2.8289,13.45635 2.9054,2.98181 11.6979,2.98181 h 14.4503 v 11.77431 h -14.4503 q -16.2853,0 -22.4782,-6.04007 -6.193,-6.11652 -6.193,-22.1724 v -46.48557 h -10.3217 v -10.93329 h 10.3217 v -24.31318 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.583px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999995px;fill:#d45500;fill-opacity:1"
+           id="path2844" />
+        <path
+           d="m 1464.7645,218.2479 v 6.88109 h -64.6823 q 0.9175,14.52674 8.7161,22.1724 7.875,7.5692 21.8666,7.5692 8.1044,0 15.6736,-1.98787 7.6456,-1.98787 15.1383,-5.96361 v 13.30343 q -7.5692,3.21118 -15.5206,4.89322 -7.9515,1.68205 -16.1324,1.68205 -20.4903,0 -32.494,-11.92722 -11.9272,-11.92722 -11.9272,-32.26466 0,-21.02555 11.3156,-33.33505 11.392,-12.38596 30.659,-12.38596 17.2792,0 27.295,11.16265 10.0923,11.0862 10.0923,30.20033 z m -14.068,-4.12865 q -0.1529,-11.54494 -6.4988,-18.42603 -6.2695,-6.88108 -16.6676,-6.88108 -11.7743,0 -18.8847,6.65171 -7.034,6.65172 -8.1044,18.73186 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.583px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999995px;fill:#d45500;fill-opacity:1"
+           id="path2846" />
+        <path
+           d="m 1554.5245,195.3874 q 5.2755,-9.48061 12.6153,-13.99155 7.3398,-4.51093 17.2792,-4.51093 13.3799,0 20.6432,9.40415 7.2634,9.3277 7.2634,26.60688 v 51.68462 h -14.1445 v -51.22588 q 0,-12.30951 -4.358,-18.27312 -4.358,-5.96361 -13.3034,-5.96361 -10.9333,0 -17.2792,7.26337 -6.3459,7.26337 -6.3459,19.80225 v 48.39699 h -14.1445 v -51.22588 q 0,-12.38596 -4.358,-18.27312 -4.358,-5.96361 -13.4563,-5.96361 -10.7804,0 -17.1263,7.33983 -6.3459,7.26337 -6.3459,19.72579 v 48.39699 h -14.1444 v -85.63133 h 14.1444 v 13.30344 q 4.8168,-7.87502 11.5449,-11.62139 6.7282,-3.74637 15.9795,-3.74637 9.3277,0 15.8265,4.7403 6.5752,4.74031 9.71,13.76218 z"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:156.583px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.999995px;fill:#d45500;fill-opacity:1"
+           id="path2848" />
+      </g>
+    </g>
   </g>
-  <g aria-label="TIONAL" style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" fill="#338000">
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1065.9 344.33h-17.398v103.67h-9.9934v-103.67h-17.542v-8.843h44.934z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1088.4 448h-9.9933v-112.51h9.9933z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1154.7 440.02q0 3.5228-2.3006 5.7516-2.3 2.23-5.8 2.23h-31.49q-3.5228 0-5.7516-2.2287-2.2287-2.2287-2.2287-5.7516v-96.554q0-3.5228 2.2287-5.7516 2.2288-2.2287 5.7516-2.2287h31.49q3.5228 0 5.7516 2.2287 2.3006 2.2287 2.3006 5.7516zm-9.9933-0.86274v-94.829h-27.536v94.829z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1219.1 448h-6.9019l-30.052-82.751v82.75h-9.4182v-112.51h7.4771l29.477 81.313v-81.313h9.4182z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1282.5 448h-9.9215l-3.9542-25.019h-22.3l-4 25.02h-9.6338v-0.28758l20.058-112.51h9.8496zm-15.17-33.862-9.8495-60.967-9.9215 60.967z"/>
-   <path style="font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-caps:normal;font-feature-settings:normal" d="m1332 448h-35.9v-112.51h9.9933v103.67h25.954z"/>
-  </g>
- </g>
 </svg>
