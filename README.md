@@ -1,5 +1,5 @@
 <p align="center"><a href="https://nazir.pro" target="_blank">
-    <img src="https://assets.nazir.pro/images/logo.svg" height="64">
+    <img src="https://assets.nazir.pro/images/logo.svg" width="50%" style="max-width: 256px;">
 </a></p>
 
 # ModuleSystem - assets #
